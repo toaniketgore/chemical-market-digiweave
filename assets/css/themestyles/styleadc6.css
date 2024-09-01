@@ -1,0 +1,523 @@
+@font-face {
+  font-family: 'cicomoon';
+  src: url('icomoon78ed.eot?orkqwr');
+  src: url('icomoon78ed.eot?orkqwr#iefix') format('embedded-opentype'),
+    url('icomoon78ed.ttf?orkqwr') format('truetype'),
+    url('icomoon78ed.woff?orkqwr') format('woff'),
+    url('icomoon78ed.svg?orkqwr#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="cicon-"], [class*=" cicon-"]{
+  line-height: 1;
+  display: inline-block;
+}
+
+.elementor-icons-manager__tab__item__icon[class^="cicon-"], .elementor-icons-manager__tab__item__icon[class*=" cicon-"]{
+  font-size: 40px;
+}
+
+[class^="cicon-"],[class*=" cicon-"] {
+  font-family: 'cicomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  display: inline-block;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.cicon-email:before {
+  content: "\e900";
+}
+.cicon-location-1:before {
+  content: "\e901";
+}
+.cicon-badge:before {
+  content: "\e902";
+}
+.cicon-check:before {
+  content: "\e903";
+}
+.cicon-pin:before {
+  content: "\e904";
+}
+.cicon-email-2:before {
+  content: "\e905";
+}
+.cicon-checked:before {
+  content: "\e906";
+}
+.cicon-success:before {
+  content: "\e907";
+}
+.cicon-campaign:before {
+  content: "\e908";
+}
+.cicon-phone-call:before {
+  content: "\e909";
+}
+.cicon-mission-1:before {
+  content: "\e90a";
+}
+.cicon-translation:before {
+  content: "\e90b";
+}
+.cicon-skincare:before {
+  content: "\e90c";
+}
+.cicon-computer:before {
+  content: "\e90d";
+}
+.cicon-checkmark:before {
+  content: "\e90e";
+}
+.cicon-mission:before {
+  content: "\e90f";
+}
+.cicon-team:before {
+  content: "\e910";
+}
+.cicon-increment:before {
+  content: "\e911";
+}
+.cicon-right-arrow:before {
+  content: "\e912";
+}
+.cicon-left-arrow:before {
+  content: "\e913";
+}
+.cicon-handshake:before {
+  content: "\e914";
+}
+.cicon-thumbs-up:before {
+  content: "\e915";
+}
+.cicon-creativity:before {
+  content: "\e916";
+}
+.cicon-crowdfunding:before {
+  content: "\e917";
+}
+.cicon-speech-bubble:before {
+  content: "\e918";
+}
+.cicon-chat:before {
+  content: "\e919";
+}
+.cicon-plus:before {
+  content: "\e91a";
+}
+.cicon-minus:before {
+  content: "\e91b";
+}
+.cicon-add:before {
+  content: "\e91c";
+}
+.cicon-search:before {
+  content: "\e91d";
+}
+.cicon-call:before {
+  content: "\e91e";
+}
+.cicon-entrepreneur:before {
+  content: "\e91f";
+}
+.cicon-contact:before {
+  content: "\e920";
+}
+.cicon-mission-2:before {
+  content: "\e921";
+}
+.cicon-miscellaneous:before {
+  content: "\e922";
+}
+.cicon-recommend:before {
+  content: "\e923";
+}
+.cicon-location:before {
+  content: "\e924";
+}
+.cicon-camera:before {
+  content: "\e925";
+}
+.cicon-telephone:before {
+  content: "\e926";
+}
+.cicon-shopping-cart:before {
+  content: "\e927";
+}
+.cicon-crowdfunding-1:before {
+  content: "\e928";
+}
+.cicon-completed-task:before {
+  content: "\e929";
+}
+.cicon-video-camera:before {
+  content: "\e92a";
+}
+.cicon-customer-service:before {
+  content: "\e92b";
+}
+.cicon-magnifying-glass:before {
+  content: "\e92c";
+}
+.cicon-development:before {
+  content: "\e92d";
+}
+.cicon-schedule:before {
+  content: "\e92e";
+}
+.cicon-software:before {
+  content: "\e92f";
+}
+.cicon-phone:before {
+  content: "\e930";
+}
+.cicon-customer-service-1:before {
+  content: "\e931";
+}
+.cicon-edit-tools:before {
+  content: "\e932";
+}
+.cicon-place:before {
+  content: "\e933";
+}
+.cicon-advertisig-agency:before {
+  content: "\e934";
+}
+.cicon-app-development:before {
+  content: "\e935";
+}
+.cicon-assurance:before {
+  content: "\e936";
+}
+.cicon-agreement:before {
+  content: "\e937";
+}
+.cicon-content-creator:before {
+  content: "\e938";
+}
+.cicon-agile:before {
+  content: "\e939";
+}
+.cicon-24-hours:before {
+  content: "\e93a";
+}
+.cicon-graphic-design:before {
+  content: "\e93b";
+}
+.cicon-knowledge:before {
+  content: "\e93c";
+}
+.cicon-coding:before {
+  content: "\e93d";
+}
+.cicon-development-1:before {
+  content: "\e93e";
+}
+.cicon-consulting:before {
+  content: "\e93f";
+}
+.cicon-quote:before {
+  content: "\e940";
+}
+.cicon-guarantee:before {
+  content: "\e941";
+}
+.cicon-digital-services:before {
+  content: "\e942";
+}
+.cicon-brainstorm:before {
+  content: "\e943";
+}
+.cicon-architect-1:before {
+  content: "\e944";
+}
+.cicon-email-1:before {
+  content: "\e945";
+}
+.cicon-meeting:before {
+  content: "\e946";
+}
+.cicon-technology:before {
+  content: "\e947";
+}
+.cicon-innovation:before {
+  content: "\e948";
+}
+.cicon-telephone-1:before {
+  content: "\e949";
+}
+.cicon-consultation:before {
+  content: "\e94a";
+}
+.cicon-help:before {
+  content: "\e94b";
+}
+.cicon-customer-review:before {
+  content: "\e94c";
+}
+.cicon-email-3:before {
+  content: "\e94d";
+}
+.cicon-consultant:before {
+  content: "\e94e";
+}
+.cicon-calling:before {
+  content: "\e94f";
+}
+.cicon-furnitures:before {
+  content: "\e950";
+}
+.cicon-design:before {
+  content: "\e951";
+}
+.cicon-shopping-cart-1:before {
+  content: "\e952";
+}
+.cicon-address:before {
+  content: "\e953";
+}
+.cicon-architect:before {
+  content: "\e954";
+}
+.cicon-blueprint:before {
+  content: "\e955";
+}
+.cicon-measure:before {
+  content: "\e956";
+}
+.cicon-buildings:before {
+  content: "\e957";
+}
+.cicon-house-design:before {
+  content: "\e958";
+}
+.cicon-architect-5:before {
+  content: "\e959";
+}
+.cicon-hook:before {
+  content: "\e95a";
+}
+.cicon-construction:before {
+  content: "\e95b";
+}
+.cicon-architect-2:before {
+  content: "\e95c";
+}
+.cicon-sketch:before {
+  content: "\e95d";
+}
+.cicon-buildings-1:before {
+  content: "\e95e";
+}
+.cicon-smart-home:before {
+  content: "\e95f";
+}
+.cicon-helmet:before {
+  content: "\e960";
+}
+.cicon-worker:before {
+  content: "\e961";
+}
+.cicon-building:before {
+  content: "\e962";
+}
+.cicon-construction-1:before {
+  content: "\e963";
+}
+.cicon-construction-worker:before {
+  content: "\e964";
+}
+.cicon-satisfaction:before {
+  content: "\e965";
+}
+.cicon-excavator:before {
+  content: "\e966";
+}
+.cicon-engineer:before {
+  content: "\e967";
+}
+.cicon-wip:before {
+  content: "\e968";
+}
+.cicon-home:before {
+  content: "\e969";
+}
+.cicon-manufacturing:before {
+  content: "\e96a";
+}
+.cicon-list:before {
+  content: "\e96b";
+}
+.cicon-manufacture:before {
+  content: "\e96c";
+}
+.cicon-architect-3:before {
+  content: "\e96d";
+}
+.cicon-work-in-progress:before {
+  content: "\e96e";
+}
+.cicon-construction-site:before {
+  content: "\e96f";
+}
+.cicon-factory:before {
+  content: "\e970";
+}
+.cicon-welder:before {
+  content: "\e971";
+}
+.cicon-table-saw:before {
+  content: "\e972";
+}
+.cicon-blueprint-1:before {
+  content: "\e973";
+}
+.cicon-construction-3:before {
+  content: "\e974";
+}
+.cicon-industrial-park-1:before {
+  content: "\e975";
+}
+.cicon-building-1:before {
+  content: "\e976";
+}
+.cicon-conveyor:before {
+  content: "\e977";
+}
+.cicon-raw-materials:before {
+  content: "\e978";
+}
+.cicon-factory-2:before {
+  content: "\e979";
+}
+.cicon-factory-1:before {
+  content: "\e97a";
+}
+.cicon-coal-factory:before {
+  content: "\e97b";
+}
+.cicon-industrial:before {
+  content: "\e97c";
+}
+.cicon-industrial-park:before {
+  content: "\e97d";
+}
+.cicon-factory-3:before {
+  content: "\e97e";
+}
+.cicon-telephone-call:before {
+  content: "\e97f";
+}
+.cicon-email-4:before {
+  content: "\e980";
+}
+.cicon-medal:before {
+  content: "\e981";
+}
+.cicon-right:before {
+  content: "\e982";
+}
+.cicon-welder-1:before {
+  content: "\e983";
+}
+.cicon-loupe:before {
+  content: "\e984";
+}
+.cicon-next:before {
+  content: "\e985";
+}
+.cicon-infrastructure:before {
+  content: "\e986";
+}
+.cicon-maps-and-flags:before {
+  content: "\e987";
+}
+.cicon-down:before {
+  content: "\e988";
+}
+.cicon-down-arrow:before {
+  content: "\e989";
+}
+.cicon-blueprint-2:before {
+  content: "\e98a";
+}
+.cicon-document:before {
+  content: "\e98b";
+}
+.cicon-architect-4:before {
+  content: "\e98c";
+}
+.cicon-building-2:before {
+  content: "\e98d";
+}
+.cicon-quote-1:before {
+  content: "\e98e";
+}
+.cicon-construction-2:before {
+  content: "\e98f";
+}
+.cicon-add-1:before {
+  content: "\e990";
+}
+.cicon-lab:before {
+  content: "\e991";
+}
+.cicon-management:before {
+  content: "\e992";
+}
+.cicon-minus-sign:before {
+  content: "\e993";
+}
+.cicon-supplier:before {
+  content: "\e994";
+}
+.cicon-closure:before {
+  content: "\e995";
+}
+.cicon-trophy:before {
+  content: "\e996";
+}
+.cicon-worldwide:before {
+  content: "\e997";
+}
+.cicon-option:before {
+  content: "\e998";
+}
+.cicon-download:before {
+  content: "\e999";
+}
+.cicon-star:before {
+  content: "\e99a";
+}
+.cicon-user:before {
+  content: "\e99b";
+}
+.cicon-facebook-app-symbol:before {
+  content: "\e99c";
+}
+.cicon-linkedin-big-logo:before {
+  content: "\e99d";
+}
+.cicon-youtube:before {
+  content: "\e99e";
+}
+.cicon-paper-plane:before {
+  content: "\e99f";
+}
+.cicon-chat-1:before {
+  content: "\e9a0";
+}
+.cicon-twitter:before {
+  content: "\e9a1";
+}
+.cicon-arrow:before {
+  content: "\e9a2";
+}
+.cicon-polygon:before {
+  content: "\e9a3";
+}

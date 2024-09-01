@@ -1,0 +1,188 @@
+    nav {
+        width: 95%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 1rem 0 1rem 1rem;
+    }
+
+    .logo img {
+        width: fit-content;
+        height: 70px;
+    }
+
+    nav .menu {
+        display: flex;
+        gap: 20px;
+    }
+
+    nav .menu a {
+        text-decoration: none;
+        font-size: 18px;
+        font-weight: 600;
+        cursor: pointer;
+        color: #7A7A7A;
+
+    }
+
+    nav .menu a:hover {
+        color: #ff6b00;
+    }
+
+    .contact-us {
+        display: inline-flex;
+        align-items: center;
+        background-color: #ff6b00;
+        /* Background color similar to the image */
+        color: white;
+        /* Text color */
+        padding: 16px 32px;
+        /* Padding around the button */
+        border-radius: 10px;
+        /* Rounded corners */
+        text-decoration: none;
+        /* Font style */
+        font-size: 16px;
+        /* Font size */
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        /* Subtle shadow */
+        transition: background-color 0.3s ease;
+        /* Smooth transition */
+    }
+
+    .contact-us svg {
+        width: 24px;
+        /* Icon size */
+        height: 24px;
+        fill: white;
+        /* Icon color */
+        margin-right: 10px;
+        /* Space between icon and text */
+    }
+
+    .contact-us a {
+        font-family: gilmer, sans-serif;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 30.08px;
+        Font color: rgb(249, 91, 18);
+        color: white;
+        /* Link color */
+        text-decoration: none;
+        /* No underline */
+        font-weight: bold;
+        /* Bold text */
+    }
+
+    .contact-us:hover {
+        background-color: #ff8c1a;
+        /* Slightly lighter background on hover */
+    }
+
+    .menu-icon ,.sidebar {
+        display: none;
+        ;
+    }
+
+
+    @media(max-width:768px) {
+        .logo img {
+            width: 160px;
+            height: fit-content
+        }
+
+        .menu-icon {
+            display: block;
+            height: 50px;
+            width: 50px   ;
+            cursor: pointer;
+
+        }
+        .close-icon{
+            display: none;
+            height: 70px;
+            width:70px;
+
+        }
+
+        nav .menu {
+            display: none;
+            red;
+        }
+
+        nav .contact-us {
+            display: none;
+        }
+
+        nav .menu {
+            position: absolute;
+            padding: 2rem 0;
+            top: 90%;
+            left: 0;
+            right: 0;
+            flex-direction: column;
+            background: #F4F4F4;
+            text-align: center;
+        }
+
+        nav .menu a {
+            font-size: 40px;
+            color: #000;
+        }
+
+        .sidebar {
+            background-color: #fbf6f6;
+            z-index: 999;
+            position: absolute;
+            top: 0;
+            left: -100%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            width: 60%;
+            align-items: center;
+            padding:0 1rem;
+            transition: left 0.5s ease-in-out;
+        }
+        .sidebar-links{
+            width:100%;
+            margin-top: 4rem;
+            display: flex;
+            flex-direction: column;
+            gap:24px;
+            }
+        .sidebar a {
+            text-align: center;
+            padding:1rem 0;
+            border:1px solid #ccc;
+            text-decoration: none;
+            font-size: 24px;
+            color:#7A7A7A;
+            font-weight: 500;
+
+        }
+
+        .sidebar .logo img {
+            margin-top:1rem;
+            width: 160px;
+            height: fit-content;
+
+
+        }
+        .sidebar button{
+            margin-top: 2rem;
+            background-color: #ff6b00;
+            border:none;
+            padding:1rem 2rem;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s ease;
+            color:#fff;
+            font-size: 18px;
+        }
+
+        .logo a{
+            border:none;
+        }
+    }
